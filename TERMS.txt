@@ -1,0 +1,28 @@
+LÉXORA — TÉRMINOS DE USO Y DESCARGO DE RESPONSABILIDAD
+Versión de los términos: 1.0 — 19 de octubre de 2026
+
+1. LICENCIA Y CÓDIGO FUENTE
+Léxora se distribuye gratuitamente como software de código abierto bajo la licencia MIT incluida en este instalador. Permite el uso personal y comercial, la copia, modificación y redistribución, respetando su aviso de copyright y licencia. El texto original en inglés de la licencia MIT figura en la pestaña «Licencia MIT».
+Estos términos informan del funcionamiento y sus límites; no añaden restricciones a los derechos concedidos por MIT. No hay suscripción ni pago a los autores exigido por esta aplicación. El acceso a Internet y los servicios de terceros tienen sus propias condiciones.
+El instalador incluye el código fuente correspondiente en SourceCode.zip, junto con instrucciones de compilación. Se copia en la carpeta de instalación para que pueda consultarse, modificarse y redistribuirse conforme a MIT.
+
+2. GOOGLE Y ENVÍO DE TEXTOS
+Al traducir, la aplicación envía el texto a un servicio web de Google a través de Internet. La detección local de una selección no la envía por sí sola: el envío se realiza al solicitar la traducción, mediante el icono, el atajo o los controles del traductor. «Abrir en Google» abre una dirección que contiene el texto, que puede quedar en el historial del navegador.
+Google recibe el contenido y los datos de conexión necesarios para atender la solicitud, y los trata conforme a sus propias condiciones y política de privacidad: https://policies.google.com/terms y https://policies.google.com/privacy . Léxora no controla ese tratamiento ni garantiza confidencialidad frente a Google. Antes de traducir contenido personal, confidencial o de terceros, comprueba que puedes enviarlo a ese proveedor.
+La aplicación utiliza un acceso web no documentado de Google; no es una integración oficial de Google Cloud Translation. Puede dejar de funcionar, cambiar o limitar peticiones sin aviso. Léxora no está afiliada, patrocinada ni respaldada por Google ni DeepL. Sus marcas pertenecen a sus respectivos titulares.
+
+3. FUNCIONAMIENTO LOCAL
+Léxora consulta la selección mediante las funciones de accesibilidad de Windows y puede utilizar Ctrl+C y el portapapeles para capturarla. Puede restaurar el portapapeles anterior durante la captura; al copiar un resultado o reemplazar en un documento, la traducción queda copiada. Otros programas con acceso al portapapeles pueden leer su contenido.
+La aplicación guarda el idioma de destino en el perfil de Windows y no incorpora un historial propio de traducciones. El sistema operativo, el navegador o servicios de terceros pueden conservar información conforme a su configuración. El inicio con Windows es opcional y puede desactivarse desde el menú de la bandeja.
+
+4. TRADUCCIONES Y REEMPLAZO EN DOCUMENTOS
+Las traducciones automáticas pueden contener errores, omisiones o cambios de significado. Revísalas antes de utilizarlas, especialmente en asuntos médicos, jurídicos, financieros o de seguridad. No sustituyen una revisión profesional cuando sea necesaria.
+El reemplazo inserta texto plano y depende de la compatibilidad del editor. Revisa el contenido y el formato del documento después de reemplazar. Guarda una copia cuando el documento sea importante; las posibilidades de deshacer dependen del editor. No se garantiza compatibilidad con todas las aplicaciones, permisos o documentos protegidos.
+Finalizar los procesos de Léxora durante la desinstalación puede perder los textos que solo estuvieran en su ventana. El desinstalador pide confirmación antes de hacerlo y no cierra los documentos externos.
+
+5. AUSENCIA DE GARANTÍAS Y RESPONSABILIDAD
+El software se proporciona «tal cual», con el alcance de la licencia MIT, sin promesas de exactitud, disponibilidad continua, adecuación a una finalidad concreta o ausencia de fallos. En la medida permitida por la legislación aplicable, los autores y titulares no asumen responsabilidad por daños derivados de su uso, incluidos errores de traducción, pérdida de contenido o interrupciones de servicios externos.
+Ninguna disposición de estos términos o de la licencia pretende excluir responsabilidades que legalmente no puedan excluirse ni limitar derechos irrenunciables reconocidos por la legislación aplicable.
+
+6. ACEPTACIÓN DURANTE LA INSTALACIÓN
+Antes de instalar o actualizar debes poder consultar estos textos y marcar expresamente la casilla de aceptación. La casilla no está marcada por defecto. Si eliges «No acepto y salir», o cierras la ventana sin instalar, el instalador se cierra sin efectuar la instalación ni modificar una instalación existente. Desinstalar no exige aceptar estos términos.
